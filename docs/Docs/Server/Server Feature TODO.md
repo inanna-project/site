@@ -1,0 +1,4 @@
+- config shouldn't be too asinine
+- setup should be docker based
+- IRCd-based. (What does this require for feature-complete? Backfill this)
+- voice/video caht -- likely just use CloudFlare Calls, at least for now

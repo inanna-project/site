@@ -1,11 +1,11 @@
-# Obsidian Notes
+# Inanna Project
 
-Publish your public notes with MkDocs
+The Inanna Project is an effort to make a lightweight, native chat app, with features that users have come to expect in their chats, such as voice and video calls. Something like "IRC that you'd actually want to use in 2024."
 
-## Hello World!
+## Docs, Goals, Et Cetera
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+The list of targeted features for the client can be found here: [[Client Feature TODO]]
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+The list of targeted features for the server/backend can be found here: [[Server Feature TODO]]
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+These are dynamic lists and features may be added, removed, decided against, or suddenly implemented at any time.

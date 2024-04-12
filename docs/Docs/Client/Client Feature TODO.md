@@ -1,0 +1,21 @@
+- channelized server based user experience
+- discord-style ui?
+- simple enough your mom can use it with a normal amount of walkthrough
+- dedicated desktop client
+- web client????
+- voice channels
+	- video over voice channels?
+- text channels
+	- image embeds (just a link to a spot on the server prolly)
+- moderation tools
+	- designatable permissions
+	- voice mute
+	- read-only perms
+	- a perm structure that doesn't suck (additive maybe?)
+	- roles?
+	- kick/ban abilities
+- multiplatform
+	- windows
+	- mac (this is hecks's and only hecks's)
+	- linux??????????
+	- nog would like tui client available plox (willing to work on it)
